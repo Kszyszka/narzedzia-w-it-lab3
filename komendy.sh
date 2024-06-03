@@ -148,3 +148,5 @@ git push origin :foo
 # Zdalne zaawansowane 8
 git pull origin C3:foo
 git pull origin C2:side
+
+# Dodana linia aby zrobić dodatkowy commit
